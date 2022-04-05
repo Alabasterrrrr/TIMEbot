@@ -3,7 +3,7 @@ import time, threading, schedule
  
 from telebot import TeleBot
 
-API_TOKEN = '5189444649:AAEyhfm5qLaLM7yI6zXFHGIJkwcnj1IecAE'
+API_TOKEN = 'API_TOKEN'
 bot = TeleBot(API_TOKEN)
 
 
